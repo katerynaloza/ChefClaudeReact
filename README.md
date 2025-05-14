@@ -6,6 +6,8 @@ ChefClaudeReact is a responsive React web application built with Vite. It presen
 
 ⚛️ Built with React and Vite
 
+🛠️ Integration Claude AI
+
 📱 Fully responsive layout (mobile, tablet, desktop)
 
 🎨 Custom design using CSS and Google Fonts
@@ -13,6 +15,8 @@ ChefClaudeReact is a responsive React web application built with Vite. It presen
 🧼 Clean and modular component structure
 
 🌍 External links to Google Maps (if applicable)
+
+
 
 
 
