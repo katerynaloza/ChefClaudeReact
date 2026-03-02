@@ -14,9 +14,6 @@ ChefClaudeReact is a responsive React web application built with Vite. It presen
 
 🧼 Clean and modular component structure
 
-🌍 External links to Google Maps (if applicable)
-
-
 
 
 
